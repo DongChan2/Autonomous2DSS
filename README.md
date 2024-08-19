@@ -11,3 +11,4 @@ test.sh 실행
 ## Demo
 python demo.py --data_path {DATA_PATH} --model_path {MODEL_WEIGHT_PATH} --save_path {SAVE_PATH}
 ![image](https://github.com/user-attachments/assets/3d3b5989-4483-4979-a3bb-daa9182e6c82)
+![image](https://github.com/user-attachments/assets/6780b04d-ab08-4ba8-9e6d-94ad9d0d5474)
